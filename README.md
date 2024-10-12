@@ -84,3 +84,11 @@ My name is Glen, I'm a junior full-stack developer, problem solver and creative 
 ![](https://img.shields.io/badge/Tools-Firebase-informational?style=flat&logo=Firebase&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Tools-Figma-informational?style=flat&logo=Figma&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/-Insomnia-informational?style=flat&logo=Insomnia&logoColor=white&color=4AB197)
+
+
+
+## ✉️ Get in touch
+
+Email: glendorner11@gmail.com
+Whatsapp: +27 66 232 0355
+Instagram: glen_dorner
