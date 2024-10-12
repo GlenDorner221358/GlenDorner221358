@@ -9,7 +9,7 @@ My name is Glen, I'm a junior full-stack developer, problem solver and creative 
 
 <br>
 
-<a href=https://github.com/Pantonym/DV300_Term1">
+<a href="https://github.com/Pantonym/DV300_Term1">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=pantonym&repo=dv300_term1&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
